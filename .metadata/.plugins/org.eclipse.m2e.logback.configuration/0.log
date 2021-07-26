@@ -1,0 +1,13 @@
+2020-12-18 20:53:32,568 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-12-18 22:22:29,988 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5999110ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-12-18 22:22:32,531 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2020-12-18 22:22:32,808 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-12-18 22:22:32,808 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-12-18 22:22:32,832 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-12-18 22:22:33,185 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@60449e6b{/wse,null,AVAILABLE}
+2020-12-18 22:22:33,458 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3309ec9b{HTTP/1.1, (http/1.1)}{0.0.0.0:61242}
+2020-12-18 22:22:33,459 [main] INFO  org.eclipse.jetty.server.Server - Started @6002622ms
+2020-12-18 22:22:33,459 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2020-12-18 23:39:44,546 [Framework stop - Equinox Container: 281faace-7cb1-4520-9962-0985cf04fe37] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3309ec9b{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2020-12-18 23:39:44,759 [Framework stop - Equinox Container: 281faace-7cb1-4520-9962-0985cf04fe37] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-12-18 23:39:45,672 [Framework stop - Equinox Container: 281faace-7cb1-4520-9962-0985cf04fe37] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@60449e6b{/wse,null,STOPPED}
