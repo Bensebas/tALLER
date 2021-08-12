@@ -9,6 +9,7 @@ public class Impresora {
 	public String color;
 	
 	public Impresora() {}
+	//8. métodos
 	public void imprimit(String datosAImprimir, int letra) {
 		System.out.println("Logo UCE");
 		System.out.println("***********");
