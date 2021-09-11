@@ -1,5 +1,5 @@
 package ejercicios.nonacces.finall;
 
-public class EstudiantesCienciasSio {
+public class EstudiantesCienciasSio extends EstudianteCiencias {
 
 }
