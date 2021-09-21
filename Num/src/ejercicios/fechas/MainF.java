@@ -1,6 +1,7 @@
 package ejercicios.fechas;
 
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class MainF {
 
@@ -47,6 +48,7 @@ public class MainF {
 		System.out.println("Nombre: " + curso3.getNombre());
 		System.out.println("F I: " + curso3.getFechaInicio());
 		System.out.println("F I: " + curso3.getFechaFin());
+		System.out.println("F F Formateada:"+ curso3.getFechaFin().format(DateTimeFormatter.ofPattern(null)));
 
 	}
 
