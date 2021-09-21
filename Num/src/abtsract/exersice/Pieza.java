@@ -1,5 +1,6 @@
 package abtsract.exersice;
 
-public class Pieza {
+public abstract class Pieza {
+	public abstract void avanzar();
 
 }

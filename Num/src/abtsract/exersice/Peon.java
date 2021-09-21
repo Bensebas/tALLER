@@ -1,5 +1,10 @@
 package abtsract.exersice;
 
-public class Peon {
+public class Peon extends Pieza {
+	
+	@Override
+	public void avanzar() {
+		
+	}
 
 }
